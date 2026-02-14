@@ -3,7 +3,6 @@
 MeetAI is a modern video meetings platform built with Next.js 15, Stream Video, Better Auth, Drizzle ORM (Neon Postgres), Inngest, and OpenAI.  
 It supports authentication, live meetings, transcripts, and AI-generated meeting summaries.
 
-⚠️ Billing (Polar) has been intentionally disabled in this version.
 
 ---
 
